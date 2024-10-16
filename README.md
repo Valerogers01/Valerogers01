@@ -22,4 +22,4 @@ https://github.com/Valerogers01
 [<img src="https://raw.githubusercontent.com/valerogers01/valerogers01/master/socials/linkedin.png" height="20em" align="center" alt="Follow Valentina Rogers on LinkedIn" title="Follow Valentina Rogers on LinkedIn"/>](https://www.linkedin.com/in/valentina-rogers-669aba330/)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Valerogers01)](https://github.com/anuraghazra/github-readme-stats)
+[![Valerogers01's github stats](https://github-readme-stats.vercel.app/api?username=Valerogers01)](https://github.com/valerogers01/github-readme-stats)
